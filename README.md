@@ -12,6 +12,7 @@ Inspired by 'SJTU-Courses','zju-icicles' and 'REKCARC-TSC-UHT', I commit my stud
 * **Circuit principle**
 ### General Course
 * **Calculus**
+* **College Physics**
 > i'll update this part when i commit some materials
 ---
 ## Academic Integrity & License
