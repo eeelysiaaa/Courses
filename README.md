@@ -18,5 +18,6 @@ Inspired by 'SJTU-Courses','zju-icicles' and 'REKCARC-TSC-UHT', I commit my stud
 ## Academic Integrity & License
 
 1. **Academic Integrity:** Materials are for reference only. **DO NOT plagiarize** for course submissions.
-2. **License:** * Code: [MIT License](LICENSE)
+2. **License:**
+   * Code: [MIT License](LICENSE)
    * Documents: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
